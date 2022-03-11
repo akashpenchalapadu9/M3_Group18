@@ -29,3 +29,6 @@
 |ID|	Low Level Requirements for HLR3|	|ID	|Low Level Requirements for HLR4|
 |----|-------------------------------|--|----|--------------|
 |LLR3.1|	If the switch is pressed three times, ON all LED's in clockwise manner	|  |	LLR4.1|	If the switch is pressed FOUR times, ON all LED's in anti-clockwise manner|
+
+# SWOT Analysis
+![project](https://user-images.githubusercontent.com/46950972/157833977-c16ab5d7-07b6-4e8b-bc68-ed01de10b3bc.png)
