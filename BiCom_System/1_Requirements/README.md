@@ -30,3 +30,6 @@
 |----|-------------------------------|--|----|--------------|
 |LLR3.1|	If the switch is pressed three times, ON all LED's in clockwise manner	|  |	LLR4.1|	If the switch is pressed FOUR times, ON all LED's in anti-clockwise manner|
 
+# SWOT Analysis
+
+![cccccccc](https://user-images.githubusercontent.com/46950972/157836003-40a6c505-2664-4091-9a9f-f4c7c78e4f23.png)
